@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T00:47:41.684337+00:00",
+  "timestamp": "2026-07-26T02:11:36.139260+00:00",
   "unit_groups": [
     {
       "name": "Adv Poly Method",
@@ -92,7 +92,7 @@
       "slug": "artschool",
       "artist_name": "Evan Chen",
       "num_submissions": 235,
-      "num_students": 1008,
+      "num_students": 1009,
       "num_clubs": 13522,
       "num_hearts": 6482.94,
       "versions": ["DGX", "ZGY"]
@@ -138,7 +138,7 @@
       "subject": "Secret",
       "description": "Secret unit that appears at level 75.",
       "slug": "collinia",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 55,
       "num_students": 207,
       "num_clubs": 4196,
@@ -330,7 +330,7 @@
       "subject": "Secret",
       "description": "Secret unit unlocked that appears at level 35.",
       "slug": "forest",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 430,
       "num_students": 807,
       "num_clubs": 5815,
@@ -404,7 +404,7 @@
       "slug": "global",
       "artist_name": "Anthony Zou",
       "num_submissions": 643,
-      "num_students": 1912,
+      "num_students": 1913,
       "num_clubs": 33523,
       "num_hearts": 14184.95,
       "versions": ["BCW", "DCW", "DCX"]
@@ -462,7 +462,7 @@
       "subject": "Higher Math",
       "description": "A first introduction to the language of group theory, rings, and fields. One of the two key gateway units for higher math.",
       "slug": "grf",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 7,
       "num_students": 198,
       "num_clubs": 235,
@@ -500,7 +500,7 @@
       "slug": "harmonic",
       "artist_name": "Nurtilek Duishobaev",
       "num_submissions": 585,
-      "num_students": 1487,
+      "num_students": 1488,
       "num_clubs": 35447,
       "num_hearts": 14802.85,
       "versions": ["DGW", "DGX"]
@@ -522,7 +522,7 @@
       "subject": "Secret",
       "description": "Secret unit that appears at level 47.",
       "slug": "hill",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 185,
       "num_students": 571,
       "num_clubs": 4293,
@@ -596,7 +596,7 @@
       "slug": "ineqbasic",
       "artist_name": "Alan Cheng",
       "num_submissions": 350,
-      "num_students": 1140,
+      "num_students": 1141,
       "num_clubs": 22850,
       "num_hearts": 7613.02,
       "versions": ["BAW"]
@@ -608,7 +608,7 @@
       "slug": "ineqfunc",
       "artist_name": "Heyang Ni",
       "num_submissions": 157,
-      "num_students": 831,
+      "num_students": 832,
       "num_clubs": 5644,
       "num_hearts": 1933.56,
       "versions": ["BAW"]
@@ -620,7 +620,7 @@
       "slug": "ineqstandard",
       "artist_name": "Shrrivathsa Mahesh",
       "num_submissions": 189,
-      "num_students": 990,
+      "num_students": 991,
       "num_clubs": 12803,
       "num_hearts": 4679.97,
       "versions": ["DAX"]
@@ -630,7 +630,7 @@
       "subject": "Secret",
       "description": "Secret unit that appears at level 61.",
       "slug": "selmburg",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 112,
       "num_students": 353,
       "num_clubs": 4697,
@@ -656,7 +656,7 @@
       "slug": "intbee",
       "artist_name": "Evan Chen",
       "num_submissions": 65,
-      "num_students": 269,
+      "num_students": 270,
       "num_clubs": 3774,
       "num_hearts": 1185.14,
       "versions": ["DAX"]
@@ -692,7 +692,7 @@
       "slug": "invert",
       "artist_name": "Heyang Ni",
       "num_submissions": 144,
-      "num_students": 857,
+      "num_students": 859,
       "num_clubs": 9301,
       "num_hearts": 3920.49,
       "versions": ["DGW"]
@@ -740,7 +740,7 @@
       "slug": "linpop",
       "artist_name": "Gunjan Aggarwal",
       "num_submissions": 18,
-      "num_students": 186,
+      "num_students": 187,
       "num_clubs": 1124,
       "num_hearts": 412.25,
       "versions": ["ZGY"]
@@ -1050,7 +1050,7 @@
       "subject": "Higher Math",
       "description": "A quick introduction to important notions like continuity, compactness, topological spaces, etc. One of two key gateway units for higher math.",
       "slug": "tara",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 7,
       "num_students": 136,
       "num_clubs": 280,
