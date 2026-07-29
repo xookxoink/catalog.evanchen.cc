@@ -17,8 +17,8 @@ height in meters amount of meters of distance away. Get trolled when you find ou
 
 All of them.
 
-* [Taiwan TST Evan Troll](https://otis.evanchen.cc/wiki/notable-problems/evans-taiwan-tst-troll-problem/) This
+* Taiwan TST Evan Troll This
   is a problem that Evan gave the other kids in Taiwan TST camp.
 
-* [DIAMONDS](https://otis.evanchen.cc/wiki/notable-problems/DIAMONDS/) This
+* DIAMONDS This
   problem contains a diamond concealed on its ARCH page. See if you can find it :)

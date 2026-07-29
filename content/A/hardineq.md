@@ -57,8 +57,8 @@ Some poster examples include:
 
 This is fairly easy for a Z-level unit, especially if you’ve done a lot of inequalities before.
 This should be unlocked after completing its
-[standard](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/ineq-standard/) (or [basic](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/ineq-basic/))
-and [functional](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/ineq-func/) counterparts,
+[standard](/A/ineqstandard) (or [basic](/A/ineqbasic))
+and [functional](/A/ineqfunc) counterparts,
 since the techniques developed in those units become common knowledge here.
 
 Otherwise, if you come from the Balkans (where inequalities are still a big

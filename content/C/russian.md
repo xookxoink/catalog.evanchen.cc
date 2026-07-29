@@ -11,7 +11,7 @@ classification = "Combinatorics"
 Russian Combo, as the name suggests, is filled with combinatorics problems from Russia.
 These are characterized by unusually short, low-tech solutions that only require ingenuity,
 so don't worry if you don't know big name theorems and techniques like Hall or
-[Combo Null](/wiki/units/list-of-combinatorics-units/combo-null).
+[Combo Null](/C/advpoly).
 There is usually one main idea behind each problem,
 and once you figure it out the whole thing "cracks open" and falls apart.
 

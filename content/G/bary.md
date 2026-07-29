@@ -19,10 +19,10 @@ but is still certainly achievable for someone with limited exposure to barycentr
 It has 54 clubs across 16 problems; it is a fairly small unit.
 
 After this unit, some good units to try are [Complex
-Numbers](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/complex-nums/),
-[Super Bary](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/super-bary/),
-[Elem Geo](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/elem-geo/),
-[Art School](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/art-school/),
+Numbers](/G/complex),
+[Super Bary](/G/superbary),
+[Elem Geo](/G/elemgeo),
+[Art School](/G/artschool),
 amongst other standard geometry units.
 
 ## Warning

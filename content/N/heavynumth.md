@@ -21,9 +21,9 @@ Also in this unit are results relating to the behavior and distribution of prime
 and [Dirichlet](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions) are mentioned.
 
 Heavy NT can be quite tough. It could be considered an extension of [Expon
-NT](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/expon-nt/) in terms of theory,
-and is also similar to [Prime Exponents](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/prime-exponents/)
-and [Orders](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/orders/) as careful analysis mod p
+NT](/N/expnt) in terms of theory,
+and is also similar to [Prime Exponents](/N/vp)
+and [Orders](/N/orders) as careful analysis mod p
 is key to many problems.
 
 ## Notable Problems

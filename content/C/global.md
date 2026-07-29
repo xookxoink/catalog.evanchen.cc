@@ -8,7 +8,7 @@ classification = "Combinatorics"
 +++
 ## Philosophy
 
-This unit is really about taking a holistic view of a problem, contrasting with [Local](wiki:local).
+This unit is really about taking a holistic view of a problem, contrasting with [Local](/C/local).
 You're usually given a structure, where you need to count something,
 be it giving a contradiction using Pigeonhole or finding a lower bound.
 

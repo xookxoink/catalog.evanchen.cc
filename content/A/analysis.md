@@ -7,7 +7,7 @@ subject = "A"
 classification = "Algebra"
 +++
 **Analysis** is an algebra unit concerned with the size of real numbers.
-As it is in the [Technical](wiki:/units/classes) class,
+As it is in the Technical class,
 it is one of the units with the most demanding pre-reading.
 
 It is the easier counterpart to [Putnam Analysis](/A/putnamana).

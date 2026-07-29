@@ -10,13 +10,13 @@ classification = "Algebra"
 
 This unit is all about dealing with arbitrary polynomials over the real numbers.
 The unit builds off and shares some problems with [Symmetric
-Poly](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/symm-polynom/).
+Poly](/A/sympoly).
 Topics covered include Lagrange interpolation, factor theorem, Vieta's, finite differences,
 applications of differentiation.
 
 This unit is definitely on the harder side for a D unit, many of the problems are quite difficult.
 Some units you can do after this unit are
-[Irreducible](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/irreducible/) and [Int Poly](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/int-polynom/).
+[Irreducible](/A/irred) and [Int Poly](/N/intpoly).
 
 The unit contains 80 clubs across 21 problems.
 

@@ -12,9 +12,9 @@ This unit explores the general concept of preserving information we already have
 
 This unit is a mid-level D unit.
 Before doing this unit, one should do the unit [Induction and Recursion
-I](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/induction-recursion-i/).
+I](/C/induct1).
 After this, one should look at the other [standard combinatorics
-units](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/).
+units](/C/).
 
 ## Notable Problems
 

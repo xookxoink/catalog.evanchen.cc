@@ -10,7 +10,7 @@ classification = "Combinatorics"
 
 Expected Value is a computational-heavy unit with very few olympiad problems.
 It is considered to be one of the easiest units along with
-[Sympoly](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/symm-polynom/).
+[Sympoly](/A/sympoly).
 It contains one of the most important combinatorics concept - Linearity of Expectation.
 You also learn about applying Markov Chains to expected value problems (more commonly known as States).
 
@@ -25,10 +25,10 @@ You also learn about applying Markov Chains to expected value problems (more com
 This is a very good unit to use for late AIME combinatorics,
 but it has very few applications to olympiad problems.
 The only relation is through a middle step,
-the [Global](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/global/) unit,
+the [Global](/C/global) unit,
 which uses some ideas from this unit and builds upon this unit.
 It is recommended to do this before
-[Global](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/global/).
+[Global](/C/global).
 
 One thing about this unit is that it has no 9-club problems.
 18 of the 27 minimum clubs come from required problems.

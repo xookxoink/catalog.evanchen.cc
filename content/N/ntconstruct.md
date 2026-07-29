@@ -9,7 +9,7 @@ classification = "Number Theory"
 ## Philosophy
 
 This unit is very similar to the
-[Free](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/free/) unit,
+[Free](/C/free) unit,
 where there is a lot of choices to make. They share strategies such as
 
 - Experimenting: trying easy cases, looking for simple or motivated designs
@@ -48,7 +48,7 @@ but there are a few more things to consider when making a construction, for exam
 
 This unit is on the tougher side of D leveled units.
 If you have trouble with this unit,
-it may be beneficial to try [Free](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/free/) first.
+it may be beneficial to try [Free](/C/free) first.
 You could also just check it out since it is a sample unit.
 
 ## Notable Problems

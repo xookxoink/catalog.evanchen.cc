@@ -20,10 +20,10 @@ This unit is about medium for a B unit and an easy to medium D unit,
 although some problems are quite challenging for those who are not experienced with geometry.
 
 After this unit, one can look forward to other standard geometry units,
-such as [Bary](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/bary/),
-[Classical Geo](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/classical-geo/),
-[Harmonic](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/harmonic/),
-[Complex](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/complex-nums/), amongst others.
+such as [Bary](/G/bary),
+[Classical Geo](/G/classicgeo),
+[Harmonic](/G/harmonic),
+[Complex](/G/complex), amongst others.
 
 ## Notable Problems
 

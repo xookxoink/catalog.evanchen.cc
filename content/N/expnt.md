@@ -6,7 +6,7 @@ unit_id = "11"
 subject = "N"
 classification = "Number Theory"
 +++
-In contrast to [Euclid Alg](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/euclid-alg/),
+In contrast to [Euclid Alg](/N/euclid),
 this unit does not revolve around a particular instinct or a philosophy.
 Problems in this unit were chosen according to the content of their statements,
 rather than the techniques that can tackles those problems.

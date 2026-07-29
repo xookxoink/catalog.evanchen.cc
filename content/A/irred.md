@@ -57,14 +57,14 @@ A classic example of the use of the $\mathbb{F}_p$ reduction is the Eisenstein c
 Some problems are classical; some have a distinct algebraic number theoretic flavor.
 Some are rather hard and worth knowing. Others are simply cool.
 
-1. [Frobilinear polynomial's irreducible](/wiki/notable-problems/Z271403C/) Nice
+1. [Frobilinear polynomial's irreducible](https://aops.com/community/c6h320396p1721447) Nice
    use of the Frobenius map and use of $\overline{\mathbb{F}_p}$.
-2. [ELMO 2012 Problem 3](/wiki/notable-problems/12ELMO3/) This is worth knowing in itself;
+2. [ELMO 2012 Problem 3](https://aops.com/community/p2728444) This is worth knowing in itself;
    a verification of intuition.
-3. [pseudo-Eisenstein for differences](/wiki/notable-problems/ZADCAAEE/) This is
+3. pseudo-Eisenstein for differences This is
    a good example of the reduction we talked about in philosophy (because it's
    not a direct corollary of that; you need to think more).
-4. [Romania TST 2010](/wiki/notable-problems/10ROUTST53/) A good portrayal of
+4. Romania TST 2010 A good portrayal of
    using inequalities and bounding modulus of roots.
-5. [Romania TST 2003](/wiki/notable-problems/03ROUTST22/) Wonderful example of
+5. [Romania TST 2003](https://aops.com/community/p334363) Wonderful example of
    one algebraic concept$-$ symmetry.

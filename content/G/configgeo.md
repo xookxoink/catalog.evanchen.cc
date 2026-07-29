@@ -7,7 +7,7 @@ subject = "G"
 classification = "Geometry"
 +++
 **Config Geo** is a cousin of [Classic
-Geo](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/classical-geo/);
+Geo](/G/classicgeo);
 they were once combined in a unit.
 However, Config Geo is slightly different;
 in classic geo often you have to find synthetic properties from the start with

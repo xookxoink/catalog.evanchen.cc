@@ -14,7 +14,7 @@ would be "algebra of polynomials".
 
 This unit is definitely on the harder side for a D unit; many of the problems are quite difficult.
 Some units you can do after this unit are
-[Irreducible](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/irreducible/) and [Real Poly](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/real-polynom/).
+[Irreducible](/A/irred) and [Real Poly](/A/realpoly).
 
 ## Notable Problems
 

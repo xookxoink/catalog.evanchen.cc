@@ -31,5 +31,5 @@ the practice problems.
 
 This unit is a medium level B unit in terms of difficulty.
 It has some similarities to [Prime
-Exponents](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/prime-exponents/) with the idea of examining
+Exponents](/N/vp) with the idea of examining
 individual primes.

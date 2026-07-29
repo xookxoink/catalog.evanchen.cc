@@ -16,6 +16,6 @@ Alternatively, you can take Ineq Standard which is a combination of Ineq Basic a
 
 These problems have elementary solutions. You can kill them by using AM-GM, Cauchy, Muirhead, Holder, etc.
 
-* [IMO 2005/3](wiki:/notable-problems/05IMO3): A walkthrough problem.
-* [ELMO 2003/4](wiki:/notable-problems/03ELMO4): Partial Fractions!
-* [MOP 2011 R4.2](wiki:/notable-problems/11mopr42): A 9-point required problem.
+* [IMO 2005/3](https://aops.com/community/p281573): A walkthrough problem.
+* [ELMO 2003/4](https://aops.com/community/p2887981): Partial Fractions!
+* [MOP 2011 R4.2](https://aops.com/community/p29271422): A 9-point required problem.

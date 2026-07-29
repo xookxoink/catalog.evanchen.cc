@@ -29,9 +29,9 @@ which makes it one of the most fun units to do.
 
 ## Philosophy
 
-In contrast to units such as [Harmonic](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/harmonic/),
-[Euclid alg](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/euclid-alg/),
-or [Equality](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/equality/),
+In contrast to units such as [Harmonic](/G/harmonic),
+[Euclid alg](/N/euclid),
+or [Equality](/C/equality),
 **Hybrid Geo** does not focus on a particular technique or a philosophy.
 Besides that, the theoretical portion of the unit is very rich,
 involving stories such as Ptolemy's inequality, Fermat point, Erdos-Mordell inequality, Fagnano's problems,

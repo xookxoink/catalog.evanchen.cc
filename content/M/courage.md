@@ -10,7 +10,7 @@ This unit features problems with seemingly short statements but in reality,
 has a large setup and can be very tricky.
 The difficulty is that the statement doesn't give a lot to work with so you must
 sort of make the structures and frameworks,
-sort of like [Free](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/free).
+sort of like [Free](/C/free).
 Often, these problems are at the #3/6 spots, which can make them very scary.
 Also, this unit may feature longer solutions, but that is normal.
 There may be longer details you need to address.
@@ -19,7 +19,7 @@ There may be longer details you need to address.
 
 Some strategies to consider are:
 
-* Not to get scared, have [Courage](wiki:Courage)!
+* Not to get scared, have Courage!
   Sometimes these problems are hard,
   but sometimes they aren't and it's hard to tell from the problem statement.
 * Try more elaborate setups. Look for a base you can use and build from there.
