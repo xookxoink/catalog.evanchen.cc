@@ -379,37 +379,6 @@ h3 {
   color: #666;
 }
 
-.unit-table {
-  border: 1px solid $border;
-  border-collapse: collapse;
-  background: #fff;
-  margin: 0.4rem 0;
-  width: 100%;
-}
-.unit-table th,
-.unit-table td {
-  border: 1px solid $border;
-  padding: 0.35rem 0.6rem;
-  text-align: left;
-  vertical-align: middle;
-}
-.unit-table thead th {
-  background: $bg-th;
-  font-weight: bold;
-}
-.unit-thumb-cell {
-  width: 52px;
-  text-align: center;
-}
-.unit-thumb {
-  width: 44px;
-  height: 44px;
-  object-fit: cover;
-  border: 1px solid $border-soft;
-  display: block;
-  margin: 0 auto;
-}
-
 // Per-subject listing — cards with description (not a table).
 .unit-list {
   list-style: none;
@@ -649,16 +618,5 @@ h3 {
     float: none;
     width: auto;
     margin: 0 0 1.1em;
-  }
-  .unit-table thead {
-    display: none;
-  }
-  .unit-table tbody tr {
-    display: grid;
-    grid-template-columns: 52px 1fr;
-  }
-  .unit-table td {
-    border: none;
-    border-bottom: 1px solid $border-soft;
   }
 }
