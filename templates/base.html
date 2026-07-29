@@ -5,6 +5,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="OTIS unit catalog wiki">
         <meta name="keywords" content="OTIS, Evan Chen, wiki, catalog">
+        <script>
+            document.documentElement.classList.add("js");
+            try {
+                var storedAccent = localStorage.getItem("accent");
+                if (storedAccent) {
+                    document.documentElement.setAttribute("data-accent", storedAccent);
+                }
+            } catch (e) {}
+        </script>
         <title>
             {% block title %}
                 {{ config.title | default(value="OTIS Unit Wiki") }}
@@ -18,6 +27,7 @@
         <script defer
                 src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
         <script defer src="{{ get_url(path='render-math.js') }}"></script>
+        <script defer src="{{ get_url(path='accent.js') }}"></script>
     </head>
     <body>
         <header class="site-header">
@@ -68,6 +78,39 @@
                 OTIS Unit Wiki ·
                 <a href="{{ config.extra.github_repo }}">suggest edits via pull request on GitHub</a>.
             </p>
+            <div class="accent-picker" role="group" aria-label="Accent color">
+                <span>Accent color:</span>
+                <button type="button"
+                        class="accent-swatch"
+                        data-accent=""
+                        aria-label="Blue (default)"
+                        aria-pressed="true"></button>
+                <button type="button"
+                        class="accent-swatch"
+                        data-accent="pink"
+                        aria-label="Neon pink"
+                        aria-pressed="false"></button>
+                <button type="button"
+                        class="accent-swatch"
+                        data-accent="red"
+                        aria-label="Red"
+                        aria-pressed="false"></button>
+                <button type="button"
+                        class="accent-swatch"
+                        data-accent="orange"
+                        aria-label="Orange"
+                        aria-pressed="false"></button>
+                <button type="button"
+                        class="accent-swatch"
+                        data-accent="green"
+                        aria-label="Green"
+                        aria-pressed="false"></button>
+                <button type="button"
+                        class="accent-swatch"
+                        data-accent="purple"
+                        aria-label="Purple"
+                        aria-pressed="false"></button>
+            </div>
         </footer>
     </body>
 </html>

@@ -5,11 +5,9 @@
 // wikitable borders, and bordered code blocks.
 // =============================================================================
 
-$arch-blue: #1793d1; // the Arch logo blue (accent / header rule)
-$arch-blue-dark: #1565a0;
-$link: #07b; // #0077bb — content link blue
-$link-visited: #0b0080;
-$link-red: #ba0000; // missing-page links
+$arch-blue: var(--accent); // themable accent; see :root palette below
+$link: var(--accent); // content links now follow the accent too
+$link-visited: var(--accent-visited);
 
 $text: #222222;
 $border: #aaaaaa; // table / heading rules
@@ -26,6 +24,38 @@ $font-mono:
   "Courier New", monospace;
 
 $maxw: 985px;
+
+// --- accent palette ----------------------------------------------------------
+// --accent is the themable version of the Arch blue and also drives $link
+// (all content/nav links follow the chosen theme); --accent-soft/-glow/
+// -visited are derived hover fills/shadows/visited-link shades so each theme
+// below only needs one line. The :root value is also the no-JS / first-visit
+// default (see accent.js).
+:root {
+  --accent: #1793d1; // Arch blue
+  --accent-soft: color-mix(in srgb, var(--accent) 13%, #fff);
+  --accent-glow: color-mix(in srgb, var(--accent) 40%, transparent);
+  --accent-visited: color-mix(
+    in srgb,
+    var(--accent) 65%,
+    #000
+  ); // visited links
+}
+[data-accent="pink"] {
+  --accent: #ff1e8e;
+}
+[data-accent="red"] {
+  --accent: #e01b24;
+}
+[data-accent="orange"] {
+  --accent: #e07000;
+}
+[data-accent="green"] {
+  --accent: #2e9e4b;
+}
+[data-accent="purple"] {
+  --accent: #8a4fce;
+}
 
 * {
   box-sizing: border-box;
@@ -49,9 +79,6 @@ a:visited {
 }
 a:hover {
   text-decoration: underline;
-}
-a.new {
-  color: $link-red;
 }
 
 p {
@@ -177,7 +204,7 @@ pre code {
   white-space: nowrap;
 }
 .nav-dropdown-menu a:hover {
-  background: #eaf4fb;
+  background: var(--accent-soft);
   text-decoration: none;
 }
 
@@ -255,7 +282,7 @@ h3 {
   border: 1px solid $border-soft;
 }
 .subject-card a:hover {
-  background: #eaf4fb;
+  background: var(--accent-soft);
   border-color: $arch-blue;
   text-decoration: none;
 }
@@ -333,7 +360,7 @@ h3 {
   border-color: $arch-blue;
   box-shadow:
     0 0 0 2px $arch-blue,
-    0 4px 14px rgba(23, 147, 209, 0.4);
+    0 4px 14px var(--accent-glow);
 }
 .gallery-art {
   width: 100%;
@@ -497,7 +524,7 @@ h3 {
 .infobox-image-link:hover .infobox-image {
   box-shadow:
     0 0 0 2px $arch-blue,
-    0 4px 14px rgba(23, 147, 209, 0.4);
+    0 4px 14px var(--accent-glow);
 }
 .infobox-image {
   max-width: 100%;
@@ -566,6 +593,54 @@ h3 {
 
 .math-display {
   overflow-x: auto;
+}
+
+// --- accent picker -----------------------------------------------------------
+// Footer swatches for retheming --accent (see the :root palette up top).
+// Hidden without JS (added via the <html class="js"> bootstrap in base.html)
+// so the picker never appears where clicking it couldn't do anything.
+.accent-picker {
+  display: none;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.6rem;
+  color: #666;
+  font-size: 0.82rem;
+}
+.js .accent-picker {
+  display: flex;
+}
+.accent-swatch {
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  background: var(--swatch);
+  border: 1px solid $border;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.accent-swatch[data-accent=""] {
+  --swatch: #1793d1;
+}
+.accent-swatch[data-accent="pink"] {
+  --swatch: #ff1e8e;
+}
+.accent-swatch[data-accent="red"] {
+  --swatch: #e01b24;
+}
+.accent-swatch[data-accent="orange"] {
+  --swatch: #e07000;
+}
+.accent-swatch[data-accent="green"] {
+  --swatch: #2e9e4b;
+}
+.accent-swatch[data-accent="purple"] {
+  --swatch: #8a4fce;
+}
+.accent-swatch[aria-pressed="true"] {
+  outline: 2px solid $text;
+  outline-offset: 2px;
 }
 
 // --- responsive ------------------------------------------------------------
