@@ -24,9 +24,9 @@ There is some grey room in this department.
 ## Second letter: Subject
 
 For example `A` is algebra, etc.
-These are the letters appearing on the [index page](/).
+These are the letters appearing on the [index page](@/_index.md).
 
-## Third letter: VErsion identifier
+## Third letter: Version identifier
 
 The third letter is a version identifier (either W, X, or Y).
 Some topics have multiple versions so they can be repeated in different years.
