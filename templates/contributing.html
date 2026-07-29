@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}
+    {{ page.title }} · OTIS Unit Wiki
+{% endblock title %}
+{% block content %}
+    <article class="info-page">
+        <h1>{{ page.title }}</h1>
+        <p class="edit-link">
+            <a href="{{ config.extra.github_repo }}/edit/{{ config.extra.github_branch }}/content/{{ page.relative_path }}"
+               rel="nofollow">✎ Edit this page on GitHub</a>
+        </p>
+        {{ page.content | safe }}
+        {% set subjects = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
+        {% set_global total = 0 %}
+        {% for letter in subjects %}
+            {% set sec = get_section(path=letter ~ "/_index.md") %}
+            {% set stubs = sec.pages | filter(attribute="extra.stub", value=true) %}
+            {% set hidden_count = stubs | filter(attribute="extra.hidden", value=true) | length %}
+            {% set visible = stubs | length - hidden_count %}
+            {% if visible > 0 %}
+                {% set_global total = total + visible %}
+                <h3>{{ letter }} · {{ sec.title }}</h3>
+                <ul class="stub-list">
+                    {% for p in stubs %}
+                        {% if not p.extra.hidden %}
+                            <li>
+                                <a href="{{ p.permalink }}">{{ p.title }}</a> — <code>{{ p.slug }}</code>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endfor %}
+        <p class="stub-total">{{ total }} stub articles.</p>
+    </article>
+{% endblock content %}

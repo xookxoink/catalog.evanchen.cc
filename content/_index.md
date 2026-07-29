@@ -19,4 +19,5 @@ In 2025-2026, Evan split off the wiki to a dedicated domain,
 If you spot anything out of date,
 or want to make improvements or changes,
 please [file a pull request](https://github.com/vEnhance/catalog.evanchen.cc)!
-Revisions to the wiki would be really welcome.
+Revisions to the wiki would be really welcome,
+particularly filling in [unfinished articles](@/info/contributing.md).

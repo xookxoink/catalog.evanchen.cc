@@ -13,6 +13,18 @@
                    rel="nofollow">✎ Edit this page on GitHub</a>
             </p>
         </div>
+        {% if page.extra.stub %}
+            <div class="stub-notice">
+                <strong>Look, it's a stub!</strong>
+                If you have boring schoolwork to do,
+                please procrastinate on it by
+                <a href="{{ config.extra.github_repo }}/edit/{{ config.extra.github_branch }}/content/{{ page.relative_path }}"
+                   rel="nofollow">expanding this stub instead</a>.
+                <br />
+                Or see the
+                <a href="{{ get_url(path='@/info/contributing.md') }}">list of all stubs</a>.
+            </div>
+        {% endif %}
         {% if u.description %}
             <blockquote class="unit-quote">
                 {{ u.description }}

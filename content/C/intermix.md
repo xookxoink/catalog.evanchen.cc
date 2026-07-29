@@ -5,5 +5,6 @@ title = "Intermediate Mix"
 unit_id = "86"
 subject = "C"
 classification = "Combinatorics"
+stub = true
 +++
 (This is an automatically generated article for Intermediate Mix. Please add some content!)

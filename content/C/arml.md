@@ -5,5 +5,6 @@ title = "Computational Combo"
 unit_id = "84"
 subject = "C"
 classification = "Combinatorics"
+stub = true
 +++
 (This is an automatically generated article for Computational Combinatorics. Please add some content!)

@@ -424,7 +424,17 @@ h3 {
   margin: 0;
 }
 
-// --- unit page: quote + infobox + body -------------------------------------
+// --- unit page: stub notice + quote + infobox + body ------------------------
+// MediaWiki "ambox"-style banner on incomplete unit pages.
+.stub-notice {
+  margin: 0 0 1.1em;
+  padding: 0.6em 1em;
+  background: #fbf7e3;
+  border: 1px solid $border-soft;
+  border-left: 4px solid #d9a441;
+  font-size: 0.95em;
+}
+
 .unit-quote {
   margin: 0 0 1.1em;
   padding: 0.5em 1em;

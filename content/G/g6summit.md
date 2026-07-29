@@ -5,5 +5,6 @@ title = "G6 Summit"
 unit_id = "74"
 subject = "G"
 classification = "Geometry"
+stub = true
 +++
 A lot of difficult geometry problems from various sources. What else did you expect, really?
