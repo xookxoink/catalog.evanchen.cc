@@ -11,12 +11,12 @@ classification = "Combinatorics"
 Russian Combo, as the name suggests, is filled with combinatorics problems from Russia.
 These are characterized by unusually short, low-tech solutions that only require ingenuity,
 so don't worry if you don't know big name theorems and techniques like Hall or
-[Combo Null](/C/advpoly).
+[Combo Null](@/C/advpoly.md).
 There is usually one main idea behind each problem,
 and once you figure it out the whole thing "cracks open" and falls apart.
 
-These problems are also very diverse, fitting many other combo units including [Global](/C/global),
-[Local](/C/local), [Equality](/C/equality), [Graph Theory](/C/graph), and more.
+These problems are also very diverse, fitting many other combo units including [Global](@/C/global.md),
+[Local](@/C/local.md), [Equality](@/C/equality.md), [Graph Theory](@/C/graph.md), and more.
 There is a decent amount of combinatorial geometry as well.
 
 ## Notable Problems

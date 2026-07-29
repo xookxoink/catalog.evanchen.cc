@@ -7,11 +7,11 @@ subject = "A"
 classification = "Algebra"
 +++
 **Tricky Inequalities** is essentially a unit about inequalities that require more cleverness,
-yet still depend on techniques from [Standard Inequalities](/A/ineqstandard).
+yet still depend on techniques from [Standard Inequalities](@/A/ineqstandard.md).
 It is quite a fun unit, though a bit on the harder side of D (due to having to think more 🙂).
 One nice thing: while working on the problem set, most problems feel like you are out in the wild;
 the only hint you get is that the problem is an inequality (duh!).
-If you enjoyed this unit a lot, you can consider trying the Z level [Hard Inequalities](/A/hardineq).
+If you enjoyed this unit a lot, you can consider trying the Z level [Hard Inequalities](@/A/hardineq.md).
 This unit is shorter than typical, with fewer problems and a lower clubs cutoff.
 
 ## Should I do this unit?
@@ -22,8 +22,8 @@ Also, "Standard" inequalities don't show up that much on Olympiads nowadays
 because people are so comfortable with them; if you do see an inequality in contest,
 it will likely fall under this category now.
 You should probably have completed either [Standard
-Inequalities](/A/ineqstandard) or both of the B units [Basic
-Inequalities](/A/ineqbasic) and [Function Inequalities](/A/ineqfunc) before
+Inequalities](@/A/ineqstandard.md) or both of the B units [Basic
+Inequalities](@/A/ineqbasic.md) and [Function Inequalities](@/A/ineqfunc.md) before
 doing this unit (it assumes you know the content from those); alternatively,
 working through [Olympiad Inequalities](https://web.evanchen.cc/handouts/Ineq/en.pdf) from Evan's website is fine.
 

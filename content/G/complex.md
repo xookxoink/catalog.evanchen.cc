@@ -8,7 +8,7 @@ classification = "Geometry"
 +++
 **Complex Numbers** is a unit on using complex numbers in geometry.
 If you were looking for complex numbers more towards algebra,
-you are looking for [Cyclotomic](/A/cyclotomic), which is not really about cyclotomic polynomials.
+you are looking for [Cyclotomic](@/A/cyclotomic.md), which is not really about cyclotomic polynomials.
 One can think of complex numbers in geometry as vectors,
 except their multiplicative structure allows for much more versatility.
 
@@ -22,7 +22,7 @@ perhaps on the easier side for D units if you hate synthetic.
 
 ## Philosophy
 
-Like [bary bashing](/G/bary), complex is usually regarded as a bash method.
+Like [bary bashing](@/G/bary.md), complex is usually regarded as a bash method.
 However, Evan doesn't regard this as a "bash" unit.
 With the right setup, one could decrease the amount of work needed by a factor of 2 or even 5.
 To allow this right setup to appear, of course, requires thinking,

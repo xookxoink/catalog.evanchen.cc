@@ -8,10 +8,10 @@ classification = "Geometry"
 +++
 **Spiral** is a D level unit about, unsurprisingly, spiral similarities and Miquel points.
 These two concepts show up very frequently in all types of geometry problems, ranging from easy to hard,
-[Config Geo](/G/configgeo) to [Weird Geo](/G/weirdgeo).
-Together with [Invert](/G/invert),
+[Config Geo](@/G/configgeo.md) to [Weird Geo](@/G/weirdgeo.md).
+Together with [Invert](@/G/invert.md),
 these concepts can be thought as the bread and butter of olympiad geometry.
-If you've done both, or are feeling adventurous, try doing [Inversion and Spiral](/G/kansas),
+If you've done both, or are feeling adventurous, try doing [Inversion and Spiral](@/G/kansas.md),
 a Z unit which combines both topics into one unit.
 In terms of difficulty, this unit is fairly middle of the road for D units,
 but there are a couple tricky problems.
@@ -57,5 +57,5 @@ So you can often solve many problems using a different method like inversion, by
 - [TSTST 2013/4](https://aops.com/community/p3181482): This is a locus problem,
   something you don't see very often. It's quite the oddity.
 - [December TST 2013/3](https://aops.com/community/p3161942): This is the final example problem in EGMO,
-  and also appears in [Config Geo](/G/configgeo). Nonetheless, you can solve it here as well.
+  and also appears in [Config Geo](@/G/configgeo.md). Nonetheless, you can solve it here as well.
   But be warned, it's quite nontrivial.

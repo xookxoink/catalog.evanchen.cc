@@ -6,7 +6,7 @@ unit_id = "11"
 subject = "N"
 classification = "Number Theory"
 +++
-In contrast to [Euclid Alg](/N/euclid),
+In contrast to [Euclid Alg](@/N/euclid.md),
 this unit does not revolve around a particular instinct or a philosophy.
 Problems in this unit were chosen according to the content of their statements,
 rather than the techniques that can tackles those problems.

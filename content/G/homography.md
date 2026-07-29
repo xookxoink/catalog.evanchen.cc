@@ -13,12 +13,12 @@ applications and ideas to make a problem more friendly from a projective standpo
 making them more susceptible to the strong projective tools given to us (including but not limited to,
 homographies).
 
-If you've done [Harmonic](/G/harmonic) and found it not too hard, then DGY might be a good fit for you,
+If you've done [Harmonic](@/G/harmonic.md) and found it not too hard, then DGY might be a good fit for you,
 especially if you are a projective geometry enjoyer.
 Though for most non-geo mains, this might be one of the hardest D units.
 There is a bit of a jump in difficulty from Harmonic to Homography,
 so good geometric intuition and some config knowledge is also helpful.
-In particular, [Art School](/G/artschool) may help with this unit (not verified)
+In particular, [Art School](@/G/artschool.md) may help with this unit (not verified)
 as you sometimes need to think about problems differently from a structural point of view.
 
 ## Philosophy

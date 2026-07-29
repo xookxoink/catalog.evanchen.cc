@@ -7,7 +7,7 @@ subject = "C"
 classification = "Combinatorics"
 +++
 To global or to local, 'tis the question.
-**Global and Local** is a difficult unit that combines [Local](/C/local) and [Global](/C/global),
+**Global and Local** is a difficult unit that combines [Local](@/C/local.md) and [Global](@/C/global.md),
 units with two radically different ideas. It is fairly difficult, probably in the middle-to-hard part of Z.
 It is a very large unit with a good number of problems, so expect to spend some time on it.
 It is also very fundamental; try to do as much of the problem set as you can,
@@ -16,8 +16,8 @@ rather than targeting the required number of clubs.
 ## Should I do this unit?
 
 Of course, it's an amazing unit.
-You will have a much easier time if you have done either of [Local](/C/local)
-or [Global](/C/global) before, preferably both.
+You will have a much easier time if you have done either of [Local](@/C/local.md)
+or [Global](@/C/global.md) before, preferably both.
 Additionally, it teaches about two extremely important themes in combinatorics problems,
 and the fact that they show up side by side allows you to hone your intuition
 for which problems are susceptible to which ideas really well in the problem set.
@@ -33,7 +33,7 @@ Global: This is all about examining the whole problem structure (which usually
 has an amount of symmetry in it) and doing something like double counting,
 summing a quantity across the whole (say,
 grid) or calculating expected values for the number of certain objects, or just using good old pigeonhole.
-More details at [Global](/C/global) and in the unit.
+More details at [Global](@/C/global.md) and in the unit.
 
 Local: This is the opposite, where you look at small parts of the problem and make a small change.
 This usually lends itself into inductive or algorithmic arguments.

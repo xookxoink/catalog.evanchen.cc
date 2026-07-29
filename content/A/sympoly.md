@@ -12,7 +12,7 @@ A unit featuring many computational problems from college competitions along
 with some easy Olympiad problems. This is probably one of the easiest units, comparable to EV.
 It includes one of the main Algebraic formulas for AIME, Vieta's.
 It also talks about Newton Sums, Factor Theorem, and the Fundamental Theorem of Symmetric Polynomials.
-This unit directly ties into [Alg Manip](/A/algmanip) and uses many similar concepts.
+This unit directly ties into [Alg Manip](@/A/algmanip.md) and uses many similar concepts.
 
 ## Notable Problems
 

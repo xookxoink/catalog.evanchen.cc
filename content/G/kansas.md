@@ -7,7 +7,7 @@ subject = "G"
 classification = "Geometry"
 +++
 **Inversion and Spiral** is basically what it sounds like:
-a combination of the units [Invert](/G/invert) and [Spiral](/G/spiral),
+a combination of the units [Invert](@/G/invert.md) and [Spiral](@/G/spiral.md),
 though admittedly there is a lean towards the latter.
 It is a pretty fun unit, and not too difficult for a Z if you are a geo main and
 have grasped the concepts well.

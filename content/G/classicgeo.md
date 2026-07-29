@@ -9,7 +9,7 @@ classification = "Geometry"
 ## Philosophy
 
 American Geo splits up into two parts:
-Classical and [Config Geo](/G/configgeo).
+Classical and [Config Geo](@/G/configgeo.md).
 While Config Geo relies more on recognizing common configs that appear in many problems,
 Classical is more about constructing the config yourself,
 by adding lines or circles to the diagram and slowly getting more information about the config.

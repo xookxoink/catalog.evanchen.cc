@@ -10,7 +10,7 @@ classification = "Algebra"
 As it is in the Technical class,
 it is one of the units with the most demanding pre-reading.
 
-It is the easier counterpart to [Putnam Analysis](/A/putnamana).
+It is the easier counterpart to [Putnam Analysis](@/A/putnamana.md).
 
 ## Content covered in reading
 

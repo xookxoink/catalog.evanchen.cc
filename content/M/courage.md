@@ -10,7 +10,7 @@ This unit features problems with seemingly short statements but in reality,
 has a large setup and can be very tricky.
 The difficulty is that the statement doesn't give a lot to work with so you must
 sort of make the structures and frameworks,
-sort of like [Free](/C/free).
+sort of like [Free](@/C/free.md).
 Often, these problems are at the #3/6 spots, which can make them very scary.
 Also, this unit may feature longer solutions, but that is normal.
 There may be longer details you need to address.

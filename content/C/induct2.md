@@ -12,9 +12,9 @@ This unit explores the general concept of preserving information we already have
 
 This unit is a mid-level D unit.
 Before doing this unit, one should do the unit [Induction and Recursion
-I](/C/induct1).
+I](@/C/induct1.md).
 After this, one should look at the other [standard combinatorics
-units](/C/).
+units](@/C/_index.md).
 
 ## Notable Problems
 

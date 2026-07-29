@@ -7,7 +7,7 @@ subject = "G"
 classification = "Geometry"
 +++
 **Config Geo** is a cousin of [Classic
-Geo](/G/classicgeo);
+Geo](@/G/classicgeo.md);
 they were once combined in a unit.
 However, Config Geo is slightly different;
 in classic geo often you have to find synthetic properties from the start with

@@ -11,7 +11,7 @@ classification = "Geometry"
 It's considered one of the more accessible D-level units, since even though it requires some reading,
 the problems themselves fit pretty neatly into the theoretical framework.
 Its relative beginner-friendliness makes it an ideal unit to begin the year with,
-and for this reason it's the first unit in the OTIS ordering (excluding the [Dummy Unit](/M/dummy)).
+and for this reason it's the first unit in the OTIS ordering (excluding the [Dummy Unit](@/M/dummy.md)).
 
 ## Notable problems
 

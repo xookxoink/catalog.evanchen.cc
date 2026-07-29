@@ -41,5 +41,5 @@ A "find the minimum problem".
 
 This unit is good if you need some combo practice.
 You should also take a look at
-[Rigid](/C/rigid).
+[Rigid](@/C/rigid.md).
 This unit has a minimum amount of required clubs 45, if you have time 60, and maximum 95.

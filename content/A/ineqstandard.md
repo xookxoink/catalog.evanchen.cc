@@ -19,7 +19,7 @@ Well-known named inequalities like:
 - Muirhead
 - Cauchy/Hölder
 
-And reappearances from [Ineq Func](/A/ineqfunc):
+And reappearances from [Ineq Func](@/A/ineqfunc.md):
 
 - Jensen/Karamata
 - Tangent Line
@@ -28,7 +28,7 @@ And reappearances from [Ineq Func](/A/ineqfunc):
 - Smoothing
 
 though the last three only show up in one or two practice problems.
-If you've done [Ineq Basic](/A/ineqbasic) and/or [Ineq Func](/A/ineqfunc),
+If you've done [Ineq Basic](@/A/ineqbasic.md) and/or [Ineq Func](@/A/ineqfunc.md),
 then you are certainly prepared for this unit,
 as there is some overlap between the problems and overall it's not too hard for a D unit.
 If you already have significant experience using these tools, then this unit will provide nothing new,

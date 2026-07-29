@@ -6,7 +6,7 @@ unit_id = "18"
 subject = "C"
 classification = "Combinatorics"
 +++
-This lecture discusses the other extreme to the [Rigid](/C/rigid) one:
+This lecture discusses the other extreme to the [Rigid](@/C/rigid.md) one:
 the problem gives you lots of freedom.
 It’s impossible in these cases to try and understand the structure completely,
 but the problem will ask you only to do a small part of it (e.g. an existence proof).

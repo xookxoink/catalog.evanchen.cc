@@ -9,8 +9,8 @@ classification = "Combinatorics"
 ## Philosophy
 
 **Rigid** is a lot about understanding certain structures,
-contrasting with [Free](/C/free) which is about only understanding certain subsets of the structure.
-**Rigid** is a lot like [Process](/C/process),
+contrasting with [Free](@/C/free.md) which is about only understanding certain subsets of the structure.
+**Rigid** is a lot like [Process](@/C/process.md),
 except the structures in Process are much harder to understand.
 
 This unit lies on the easier-medium difficulty of a D "combo" (it's mostly about philosophy,

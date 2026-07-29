@@ -14,8 +14,8 @@ HMMT, PUMaC, NIMO, and some mock AIMEs.
 There are a sprinkle of olympiad problems featuring many of the same strategies
 needed to solve the computational problems.
 
-The B version of the unit is an average difficulty B unit (harder than [Sympoly](/A/sympoly)/[EV](/C/evcomp),
-easier than [Equality](/C/equality)/[Elem Geo](/G/elemgeo)) while the D unit is on the easier side of D units.
+The B version of the unit is an average difficulty B unit (harder than [Sympoly](@/A/sympoly.md)/[EV](@/C/evcomp.md),
+easier than [Equality](@/C/equality.md)/[Elem Geo](@/G/elemgeo.md)) while the D unit is on the easier side of D units.
 
 ## Notable Problems
 

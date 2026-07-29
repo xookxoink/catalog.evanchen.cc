@@ -10,11 +10,11 @@ classification = "Algebra"
 
 This is a unit where you deal with larger algebraic expressions and you usually have to write things out.
 You often have to manipulate certain sums that are tricky to deal with,
-and many of the problems here would also fit in the [Sums](/A/sums) unit.
+and many of the problems here would also fit in the [Sums](@/A/sums.md) unit.
 This unit is good for getting a sense of when just doing calculations will work,
 which is more often than people expect.
 
-This unit can be compared with the [Grinding](/M/grinding) unit; however,
+This unit can be compared with the [Grinding](@/M/grinding.md) unit; however,
 while Grinding feels more wide and shallow in terms of cases and computations,
 Formulas is more narrow and deep.
 
