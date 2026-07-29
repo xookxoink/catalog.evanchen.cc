@@ -1,5 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var ACCENTS = ["", "pink", "red", "orange", "green", "purple"];
+  var ACCENTS = [
+    "",
+    "pink",
+    "red",
+    "orange",
+    "green",
+    "teal",
+    "indigo",
+    "purple",
+  ];
   var root = document.documentElement;
   var swatches = document.querySelectorAll(".accent-swatch");
 

@@ -53,6 +53,12 @@ $maxw: 985px;
 [data-accent="green"] {
   --accent: #2e9e4b;
 }
+[data-accent="teal"] {
+  --accent: #0d9488;
+}
+[data-accent="indigo"] {
+  --accent: #4f46e5;
+}
 [data-accent="purple"] {
   --accent: #8a4fce;
 }
@@ -603,6 +609,12 @@ h3 {
 }
 .accent-swatch[data-accent="green"] {
   --swatch: #2e9e4b;
+}
+.accent-swatch[data-accent="teal"] {
+  --swatch: #0d9488;
+}
+.accent-swatch[data-accent="indigo"] {
+  --swatch: #4f46e5;
 }
 .accent-swatch[data-accent="purple"] {
   --swatch: #8a4fce;
