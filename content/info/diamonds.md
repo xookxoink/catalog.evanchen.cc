@@ -34,9 +34,11 @@ Some notable diamonds include:
 - **Citation needed**: a diamond on the OTIS Wiki.
 - **Permission denied**: an unusual diamond worth -1 Charisma.
   Once redeemed, it cannot be normally removed.
-  If a user redeems _only_ this diamond, their total Charisma becomes negative;
-  starting in June 2024 this will actually grant the user
-  [an imaginary total level](https://github.com/vEnhance/otis-web/commit/568a3543dc23fc7a43cb5b2090b59f5aaead4395).
+  If a user redeems _only_ this diamond, their total Charisma becomes negative.
+  This first happened in September 2021,
+  [crashing the server until it was patched](https://github.com/vEnhance/otis-web/commit/8f1e8b6a).
+  Starting in June 2024 the code was further updated so this would
+  grant the user [an imaginary total level](https://github.com/vEnhance/otis-web/commit/568a3543dc23fc7a43cb5b2090b59f5aaead4395).
 - **Rizz bomb**: a diamond worth -100 Charisma that cannot be obtained normally.
   It could be obtained during a one-time event by giving a hat to Evan.
 
