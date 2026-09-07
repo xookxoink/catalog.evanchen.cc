@@ -17,7 +17,8 @@
                             {% set u = [g for g in units.unit_groups if g.slug == unit.slug] | first %}
                             <li class="gallery-item">
                                 <a class="gallery-name" href="{{ unit.permalink }}">{{ unit.title }}</a>
-                                <a class="gallery-slug-link" href="{{ unit.permalink }}"><span class="gallery-slug"><code>{{ unit.slug }}</code></span></a>
+                                <a class="gallery-slug-link"
+                                   href="{{ unit.permalink }}"><span class="gallery-slug"><code>{{ unit.slug }}</code></span></a>
                                 <a class="gallery-art-link"
                                    href="{{ config.extra.gallery_base }}/webp/{{ unit.slug }}.webp"
                                    target="_blank"
